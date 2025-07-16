@@ -4,7 +4,7 @@ name: mypy
 on:
   push:
     branches:
-      - main
+      - alonibranch
   pull_request:
     paths:
       - "Tools/clinic/**"
